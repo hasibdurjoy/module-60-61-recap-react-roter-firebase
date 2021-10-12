@@ -1,0 +1,8 @@
+.service{
+    background-color: aquamarine;
+    text-align: center;
+}
+.service img{
+    height: 250px;
+    width: 100%;
+}

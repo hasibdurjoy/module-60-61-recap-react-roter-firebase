@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "abdul korim",
+        "job": "engine-expert",
+        "img": "https://image.freepik.com/free-photo/smiling-mechanic-with-arms-crossed-spanner_1170-1699.jpg",
+        "age": 39
+    },
+    {
+        "id": 2,
+        "name": "Solim Ullah",
+        "job": "car-body-expert",
+        "img": "https://image.freepik.com/free-photo/happy-mechanic-standing-by-car_136930-127.jpg",
+        "age": 40
+    },
+    {
+        "id": 3,
+        "name": "Durjoy Mia",
+        "job": "tyre-expert",
+        "img": "https://img.freepik.com/free-photo/hands-car-mechanic-with-wrench-garage_146671-18309.jpg?size=626&ext=jpg",
+        "age": 35
+    },
+    {
+        "id": 4,
+        "name": "towfiq ullah",
+        "job": "allrounder-expert",
+        "img": "https://image.freepik.com/free-photo/buoyant-successful-handyman-posing-against-white-wall_273609-20080.jpg",
+        "age": 43
+    },
+    {
+        "id": 5,
+        "name": "moda kuddus",
+        "job": "break-expert",
+        "img": "https://image.freepik.com/free-photo/car-mechanic-polishing-car-before-painting_1303-28146.jpg",
+        "age": 55
+    }
+]

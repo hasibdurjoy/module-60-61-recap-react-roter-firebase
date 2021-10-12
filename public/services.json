@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "name": "replace tire",
+        "price": 2000,
+        "time": 2,
+        "img": "https://image.freepik.com/free-photo/technician-with-blue-workwear-holding-wrench-tire-while-showing-thumb-up_146671-13584.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias reiciendis porro et quos commodi necessitatibus nemo animi optio voluptatem, excepturi dicta reprehenderit sint, autem, deserunt ab minima! Non distinctio debitis eaque ad. Pariatur minus animi sed, reiciendis voluptatem deleniti. Odio beatae similique voluptates. Maiores aliquam recusandae quam vitae voluptatem dignissimos?"
+    },
+    {
+        "id": "2",
+        "name": "engine repair",
+        "price": 5000,
+        "time": 4,
+        "img": "https://image.freepik.com/free-photo/mechanic-hand-checking-fixing-broken-car-car-service-garage_146671-19718.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias reiciendis porro et quos commodi necessitatibus nemo animi optio voluptatem, excepturi dicta reprehenderit sint, autem, deserunt ab minima! Non distinctio debitis eaque ad. Pariatur minus animi sed, reiciendis voluptatem deleniti. Odio beatae similique voluptates. Maiores aliquam recusandae quam vitae voluptatem dignissimos?"
+    },
+    {
+        "id": "3",
+        "name": "engine oil change",
+        "price": 1000,
+        "time": 1,
+        "img": "https://img.freepik.com/free-photo/mechanic-changing-engine-oil-car-vehicle_342744-260.jpg?size=338&ext=jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias reiciendis porro et quos commodi necessitatibus nemo animi optio voluptatem, excepturi dicta reprehenderit sint, autem, deserunt ab minima! Non distinctio debitis eaque ad. Pariatur minus animi sed, reiciendis voluptatem deleniti. Odio beatae similique voluptates. Maiores aliquam recusandae quam vitae voluptatem dignissimos?"
+    },
+    {
+        "id": "4",
+        "name": "head Light Chnage",
+        "price": 3000,
+        "time": 2.5,
+        "img": "https://image.freepik.com/free-photo/mechanic-hold-car-halogen-light-bulb-repair-against-headlight-car-background_359031-17195.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias reiciendis porro et quos commodi necessitatibus nemo animi optio voluptatem, excepturi dicta reprehenderit sint, autem, deserunt ab minima! Non distinctio debitis eaque ad. Pariatur minus animi sed, reiciendis voluptatem deleniti. Odio beatae similique voluptates. Maiores aliquam recusandae quam vitae voluptatem dignissimos?"
+    },
+    {
+        "id": "5",
+        "name": "Car Master Service",
+        "price": 15000,
+        "time": 10,
+        "img": "https://image.freepik.com/free-vector/car-service-icons-set_1284-25124.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias reiciendis porro et quos commodi necessitatibus nemo animi optio voluptatem, excepturi dicta reprehenderit sint, autem, deserunt ab minima! Non distinctio debitis eaque ad. Pariatur minus animi sed, reiciendis voluptatem deleniti. Odio beatae similique voluptates. Maiores aliquam recusandae quam vitae voluptatem dignissimos?"
+    },
+    {
+        "id": "6",
+        "name": "Car Regular Service",
+        "price": 10000,
+        "time": 7,
+        "img": "https://image.freepik.com/free-photo/professional-mechanic-uniform-is-check-quality-new-car-engine-oil-before-delivering-customers-while-working-car-repair-center_61243-665.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias reiciendis porro et quos commodi necessitatibus nemo animi optio voluptatem, excepturi dicta reprehenderit sint, autem, deserunt ab minima! Non distinctio debitis eaque ad. Pariatur minus animi sed, reiciendis voluptatem deleniti. Odio beatae similique voluptates. Maiores aliquam recusandae quam vitae voluptatem dignissimos?"
+    }
+]
